@@ -6,7 +6,7 @@
 import java.util.Scanner;
 
 //main method
-public class bubbleSort {
+public class BubbleSort {
 	public static void main(String[] args) {
 
 	  	// Create a Scanner
